@@ -41,3 +41,34 @@ The `box-sizing` property allows you to control how the width and height of an e
     border: 5px solid black;
 }
 ```
+In this example, the total width of the box will be 300px, including padding and border.
+
+## Practical Examples
+### Example 1: Creating a Card Layout
+```xml
+<div class="card">
+    <h2>Card Title</h2>
+    <p>This is a description of the card content.</p>
+</div>
+```
+```css
+.card {
+    width: 300px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+```
+### Example 2: Centering an Element
+To center an element with margins, you can use auto margins:
+```css
+.centered-box {
+    width: 50%;
+    margin: 0 auto; /* Auto margins on left and right */
+    padding: 20px;
+    border: 2px solid #000;
+}
+
+```
