@@ -35,6 +35,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'CSS Introduction', slug: 'css-guides/css-intro' },
+						{ label: 'CSS Box Model', slug: 'css-guides/css-box-model' },
 					],
 				},
 				{
