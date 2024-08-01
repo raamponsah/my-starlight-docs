@@ -5,16 +5,20 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'WebDev Bootcamp',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'HTML Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'HTML Introduction', slug: 'html-guides/html-intro' },
+						{ label: 'HTML List', slug: 'html-guides/html-list' },
+						{ label: 'HTML Links', slug: 'html-guides/html-links' },
+						{ label: 'HTML Images', slug: 'html-guides/html-images' },
+						{ label: 'Semantic HTML', slug: 'html-guides/semantic-html' },
 					],
 				},
 				{
