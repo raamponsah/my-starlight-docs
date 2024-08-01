@@ -3,8 +3,6 @@ title: CSS Flexbox
 description: Introduction to CSS Flexbox
 ---
 
-# CSS Flexbox
-
 CSS Flexbox (Flexible Box Layout) is a layout module that makes it easier to design flexible and responsive layout structures without using float or positioning.
 
 ## Flex Container and Flex Items
