@@ -2,7 +2,6 @@
 title: Web Development Essentials
 description: Introduction to the Web Development Essentials workshop.
 ---
-# Web Development Essentials
 
 ## Overview
 
