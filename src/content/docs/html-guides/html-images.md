@@ -15,8 +15,9 @@ To add an image to a webpage, use the `<img>` element with the `src` attribute s
 <img src="https://www.example.com/image.jpg" alt="Description of the image">
 ```
 
-src: Specifies the path to the image file. This can be a relative or absolute URL.
-alt: Provides alternative text for the image if it cannot be displayed. This text is crucial for accessibility and SEO.
+- src: Specifies the path to the image file. This can be a relative or absolute URL.
+- alt: Provides alternative text for the image if it cannot be displayed. This text is crucial for accessibility and SEO.
+- 
 ### Example
 ```html
 <img src="https://www.example.com/image.jpg" alt="A description of the image">
@@ -57,9 +58,9 @@ To provide additional information about an image, use the title attribute. This 
 ```
 
 ## Alt Attribute Best Practices
-### Descriptive Text: The alt attribute should convey the meaning or purpose of the image.
-### Contextual Relevance: Ensure the text is relevant to the surrounding content.
-### Avoid Redundancy: If an image is purely decorative, use an empty alt attribute (alt="") to indicate that it should be ignored by screen readers.
+- Descriptive Text: The alt attribute should convey the meaning or purpose of the image.
+- Contextual Relevance: Ensure the text is relevant to the surrounding content.
+- Avoid Redundancy: If an image is purely decorative, use an empty alt attribute (alt="") to indicate that it should be ignored by screen readers.
 
 ## Conclusion
 Using images effectively enhances the visual appeal and usability of your web pages. By properly utilizing the `<img>` element and its attributes, you can create responsive, accessible, and informative images that improve the overall user experience.

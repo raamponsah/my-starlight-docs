@@ -7,7 +7,7 @@ export default defineConfig({
 		starlight({
 			title: 'WebDev Bootcamp',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/raamponsah/my-starlight-docs',
 			},
 			sidebar: [
 				{

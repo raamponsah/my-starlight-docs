@@ -1,55 +1,79 @@
-# Starlight Starter Kit: Basics
+# Web Development Essentials Bootcamp
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+Welcome to the Web Development Essentials Bootcamp! This intensive three-day program is designed to provide you with a solid foundation in web development, including HTML, CSS, and JavaScript. By the end of the bootcamp, you'll have the skills to build and style interactive web pages.
 
-```
-npm create astro@latest -- --template starlight
-```
+## Table of Contents
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+1. [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Bootcamp Schedule](#bootcamp-schedule)
+4. [Getting Started](#getting-started)
+5. [Topics Covered](#topics-covered)
+6. [Resources](#resources)
+7. [Contact Information](#contact-information)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Introduction
 
-## 🚀 Project Structure
+In this bootcamp, you'll learn the essentials of web development through a combination of lectures, hands-on exercises, and projects. Our goal is to equip you with the skills to start building your own web applications.
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+## Prerequisites
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   ├── docs/
-│   │   └── config.ts
-│   └── env.d.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+To make the most of this bootcamp, please ensure you have:
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+- Basic computer skills and internet familiarity.
+- Access to a modern web browser (e.g., Chrome, Firefox).
+- A text editor for coding (e.g., Visual Studio Code, Sublime Text).
+- No prior web development experience is required, but enthusiasm for learning is crucial!
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+## Bootcamp Schedule
 
-Static assets, like favicons, can be placed in the `public/` directory.
+| **Day** | **Topic**                      | **Time**        |
+|---------|--------------------------------|-----------------|
+| Day 1   | **Introduction to HTML**        | 9:00 AM - 12:00 PM |
+|         | Structure of HTML Documents     | |
+| Day 2   | **CSS Basics and Styling**      | 9:00 AM - 12:00 PM |
+|         |      |  |
+| Day 3   | **Introduction to JavaScript**  | 9:00 AM - 12:00 PM |
+|         | Adding Interactivity            |   |
+|         | **Final Project and Review**    |  |
 
-## 🧞 Commands
+## Getting Started
 
-All commands are run from the root of the project, from a terminal:
+1. **Setup**: Make sure you have the following installed:
+    - A modern web browser (e.g., Chrome, Firefox).
+    - A text editor (e.g., Visual Studio Code, Sublime Text).
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+2. **Access Materials**: All workshop materials will be provided via the GitHub repository. Access it here: [Bootcamp Repository](https://github.com/your-repo/web-development-bootcamp).
 
-## 👀 Want to learn more?
+3. **Follow Along**: Engage with the exercises and projects provided. Hands-on practice is essential to reinforce what you learn.
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+## Topics Covered
+
+- **HTML Fundamentals**: Learn the structure and semantics of HTML documents, including creating links and embedding images.
+- **CSS Styling**: Understand the basics of CSS, including how to style elements, use selectors, and implement responsive design.
+- **JavaScript Basics**: Explore JavaScript to add interactivity to your web pages, including variables, functions, and event handling.
+- **Final Project**: Apply your skills in a final project to build a complete web page or application, showcasing your learning.
+
+## Resources
+
+- **Documentation**:
+    - [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Tools**:
+    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+## Contact Information
+
+For any questions or support during the bootcamp, please contact:
+
+- **Bootcamp Coordinator**: @raamponsah 
+  Email: learn@skyfusion.dev
+  Phone: +233206171719
+
+We’re excited to have you join us for this bootcamp and look forward to a productive and engaging three days!
+
+---
+
+Happy Coding!
