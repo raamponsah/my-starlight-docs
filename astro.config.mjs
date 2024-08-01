@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'WebDev Bootcamp',
+			title: 'Skyfusion WebDev Bootcamp',
 			social: {
 				github: 'https://github.com/raamponsah/my-starlight-docs',
 			},
