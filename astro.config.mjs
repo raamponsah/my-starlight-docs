@@ -37,6 +37,7 @@ export default defineConfig({
 						{ label: 'CSS Introduction', slug: 'css-guides/css-intro' },
 						{ label: 'CSS Box Model', slug: 'css-guides/css-box-model' },
 						{ label: 'CSS Flex', slug: 'css-guides/css-flex' },
+						{ label: 'CSS Grid', slug: 'css-guides/css-grid' },
 					],
 				},
 				{
