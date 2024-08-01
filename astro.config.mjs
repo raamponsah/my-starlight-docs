@@ -11,6 +11,14 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					label: 'Web Essentials',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'The Web/Internet', slug: 'web-essentials' },
+
+					],
+				},
+				{
 					label: 'HTML Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
@@ -40,6 +48,7 @@ export default defineConfig({
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
+				
 			],
 		}),
 	],
