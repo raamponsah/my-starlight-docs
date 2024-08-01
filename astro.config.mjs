@@ -34,7 +34,7 @@ export default defineConfig({
 					label: 'CSS Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-
+						{ label: 'CSS Introduction', slug: 'css-guides/' },
 					],
 				},
 				{
