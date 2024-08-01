@@ -26,6 +26,7 @@ export default defineConfig({
 						{ label: 'HTML List', slug: 'html-guides/html-list' },
 						{ label: 'HTML Links', slug: 'html-guides/html-links' },
 						{ label: 'HTML Images', slug: 'html-guides/html-images' },
+						{ label: 'HTML Forms', slug: 'html-guides/html-forms' },
 						{ label: 'Semantic HTML', slug: 'html-guides/semantic-html' },
 						{ label: 'Project', slug: 'html-guides/html-project' },
 					],
