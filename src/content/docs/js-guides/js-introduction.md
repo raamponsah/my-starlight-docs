@@ -3,8 +3,6 @@ title: Introduction to JavaScript
 description: A Beginner's Guide to JavaScript
 ---
 
-# Introduction to JavaScript
-
 JavaScript is a versatile and powerful programming language commonly used in web development. It allows you to create interactive and dynamic web pages.
 
 ## What is JavaScript?
