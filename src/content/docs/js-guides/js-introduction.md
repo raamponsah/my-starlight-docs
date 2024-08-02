@@ -71,3 +71,15 @@ Variables are used to store data. You can declare variables using `var`, `let`, 
 var name = 'John'; // using var
 let age = 25; // using let
 const isStudent = true; // using const
+```
+
+## Data Types
+JavaScript supports various data types including:
+- String
+- Number
+- Boolean
+- Array
+- Object
+- Null
+- Undefined
+
