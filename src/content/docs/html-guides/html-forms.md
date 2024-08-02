@@ -15,10 +15,10 @@ A basic HTML form includes a `<form>` element that contains form elements. The `
 </form>
 ```
 
-### action: Specifies the URL where the form data should be sent.
-### method: Specifies the HTTP method to use when sending the form data (GET or POST).
+#### action: Specifies the URL where the form data should be sent.
+#### method: Specifies the HTTP method to use when sending the form data (GET or POST).
 ## Input Elements
-### Text Input
+#### Text Input
 The <input type="text"> element creates a single-line text input field.
 
 ```html
@@ -27,7 +27,7 @@ The <input type="text"> element creates a single-line text input field.
     <input type="text" id="name" name="name">
 </form>
 ```
-### Password Input
+#### Password Input
 The <input type="password"> element creates a single-line text input field that obscures the entered text.
 
 ```html
