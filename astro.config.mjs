@@ -45,6 +45,7 @@ export default defineConfig({
 					label: 'JavaScript Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
+						{ label: 'JS Introduction', slug: 'js-guides/js-introduction' },
 
 					],
 				},
