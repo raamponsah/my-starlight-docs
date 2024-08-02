@@ -3,7 +3,7 @@ title: Project
 description: Milestone Project
 ---
 
-# HTML Project: Build Your Personal Web Page
+## HTML Project: Build Your Personal Web Page
 
 ## Objective
 
