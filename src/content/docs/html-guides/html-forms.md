@@ -18,7 +18,8 @@ A basic HTML form includes a `<form>` element that contains form elements. The `
 - action: Specifies the URL where the form data should be sent.
 - method: Specifies the HTTP method to use when sending the form data (GET or POST).
 ## Input Elements
-- Text Input
+
+#### Text Input
 The <input type="text"> element creates a single-line text input field.
 
 ```html
@@ -27,7 +28,7 @@ The <input type="text"> element creates a single-line text input field.
     <input type="text" id="name" name="name">
 </form>
 ```
-- Password Input
+#### Password Input
 The <input type="password"> element creates a single-line text input field that obscures the entered text.
 
 ```html
@@ -36,7 +37,7 @@ The <input type="password"> element creates a single-line text input field that 
     <input type="password" id="password" name="password">
 </form>
 ```
-- Radio Buttons
+#### Radio Buttons
 The <input type="radio"> element creates a radio button. Radio buttons with the same name attribute are grouped together, allowing only one to be selected.
 
 ```html
@@ -48,7 +49,7 @@ The <input type="radio"> element creates a radio button. Radio buttons with the 
     <input type="radio" id="gender-female" name="gender" value="female">
 </form>
 ```
-- Checkboxes
+#### Checkboxes
 The <input type="checkbox"> element creates a checkbox that allows multiple selections.
 
 ```html
@@ -57,7 +58,7 @@ The <input type="checkbox"> element creates a checkbox that allows multiple sele
     <input type="checkbox" id="subscribe" name="subscribe">
 </form>
 ```
-- Submit Button
+#### Submit Button
 The <input type="submit"> element creates a button that submits the form.
 
 ```html
@@ -65,7 +66,7 @@ The <input type="submit"> element creates a button that submits the form.
     <input type="submit" value="Submit">
 </form>
 ```
-- Select Dropdown
+#### Select Dropdown
 The <select> element creates a dropdown list.
 
 ```html
@@ -78,7 +79,7 @@ The <select> element creates a dropdown list.
     </select>
 </form>
 ```
-- Textarea
+#### Textarea
 The <textarea> element creates a multi-line text input field.
 
 ```html
@@ -87,7 +88,7 @@ The <textarea> element creates a multi-line text input field.
     <textarea id="message" name="message" rows="4" cols="50"></textarea>
 </form>
 ```
-- Example Form
+#### Example Form
 Here is an example of a complete form with various input elements:
 
 ```html
