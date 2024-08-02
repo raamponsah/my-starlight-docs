@@ -64,7 +64,6 @@ You can add JavaScript to your HTML document in three ways:
 ## Basic Syntax
 
 ### Variables
-
 Variables are used to store data. You can declare variables using `var`, `let`, or `const`.
 
 ```javascript
