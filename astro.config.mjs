@@ -49,6 +49,7 @@ export default defineConfig({
 						{ label: 'JavaScript ES6 Features', slug: 'js-guides/js-es6-features' },
 						{ label: 'Asynchronous JavaScript', slug: 'js-guides/async-js' },
 						{ label: 'DOM Manipulation', slug: 'js-guides/dom-manipulation' },
+						{ label: 'JS Objects', slug: 'js-guides/js-objects' },
 
 
 					],
