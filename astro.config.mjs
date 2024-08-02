@@ -47,6 +47,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'JS Introduction', slug: 'js-guides/js-introduction' },
 						{ label: 'JavaScript ES6 Features', slug: 'js-guides/js-es6-features' },
+						{ label: 'Asynchronous JavaScript', slug: 'js-guides/async-js' },
 
 
 					],
