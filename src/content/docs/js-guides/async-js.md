@@ -3,8 +3,6 @@ title: Asynchronous JavaScript
 description: Understanding Callbacks, Promises, and Async/Await
 ---
 
-# Asynchronous JavaScript
-
 Asynchronous JavaScript allows you to perform long network requests without blocking the main thread, enabling a smooth and responsive user experience. Understanding how to handle asynchronous operations is crucial for modern web development.
 
 ## Callbacks

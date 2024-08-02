@@ -3,7 +3,6 @@ title: JavaScript ES6 Features
 description: Introduction to JavaScript ES6 Features
 ---
 
-# JavaScript ES6 Features
 
 ES6, also known as ECMAScript 2015, introduced significant improvements and new features to JavaScript, making it more powerful and easier to write. Here are some of the most important ES6 features you should know.
 

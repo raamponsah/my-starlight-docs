@@ -3,7 +3,6 @@ title: JavaScript DOM Manipulation
 description: Understanding how to manipulate the DOM using JavaScript
 ---
 
-# JavaScript DOM Manipulation
 
 The Document Object Model (DOM) represents the structure of a web page. JavaScript can be used to manipulate the DOM to change the content, structure, and style of web pages dynamically.
 
