@@ -72,9 +72,9 @@ To center an element with margins, you can use auto margins:
 ```
 
 ## Common Use Cases
-### Spacing Elements: Use margins to create space between elements, ensuring they don't touch each other.
-### Styling Buttons: Utilize padding to increase the clickable area of buttons, making them more user-friendly.
-### Creating Layouts: Combine borders and padding to create visually appealing cards, panels, or sections on your web page.
+- Spacing Elements: Use margins to create space between elements, ensuring they don't touch each other.
+- Styling Buttons: Utilize padding to increase the clickable area of buttons, making them more user-friendly.
+- Creating Layouts: Combine borders and padding to create visually appealing cards, panels, or sections on your web page.
 
 ## Conclusion
 Understanding the CSS Box Model is crucial when positioning and styling elements on a web page. It allows you to control the size, spacing, and layout of elements using CSS properties such as width, height, padding, border, and margin. Mastery of the Box Model will enhance your ability to create well-structured and visually appealing web designs.
