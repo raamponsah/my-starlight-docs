@@ -29,7 +29,7 @@ The `box-sizing` property allows you to control how the width and height of an e
 - **content-box**: This is the default value. The width and height properties include only the content, and padding and border are added outside of this.
 - **border-box**: The width and height properties include padding and border, making it easier to size elements without worrying about additional space.
 
-### Example of box-sizing
+#### Example of box-sizing
 
 ```css
 .box {
@@ -42,7 +42,7 @@ The `box-sizing` property allows you to control how the width and height of an e
 In this example, the total width of the box will be 300px, including padding and border.
 
 ## Practical Examples
-### Example 1: Creating a Card Layout
+#### Example 1: Creating a Card Layout
 ```xml
 <div class="card">
     <h2>Card Title</h2>
@@ -59,7 +59,7 @@ In this example, the total width of the box will be 300px, including padding and
 }
 
 ```
-### Example 2: Centering an Element
+#### Example 2: Centering an Element
 To center an element with margins, you can use auto margins:
 ```css
 .centered-box {
