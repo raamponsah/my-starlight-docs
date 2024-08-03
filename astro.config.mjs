@@ -48,6 +48,7 @@ export default defineConfig({
 						{ label: 'JS Introduction', slug: 'js-guides/js-introduction' },
 						{ label: 'JS Arrays', slug: 'js-guides/js-arrays' },
 						{ label: 'JS Objects', slug: 'js-guides/js-objects' },
+						{ label: 'JS Functions', slug: 'js-guides/js-functions' },
 						{ label: 'JavaScript ES6 Features', slug: 'js-guides/js-es6-features' },
 						{ label: 'Asynchronous JavaScript', slug: 'js-guides/async-js' },
 						{ label: 'DOM Manipulation', slug: 'js-guides/dom-manipulation' },
